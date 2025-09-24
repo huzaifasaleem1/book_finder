@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457523703429",
+    "project_id": "books-finder-e4ec8",
+    "storage_bucket": "books-finder-e4ec8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457523703429:android:fa5cb4e05e5717384d83ec",
+        "android_client_info": {
+          "package_name": "com.example.books_finder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqn7ibkIpiIyl7zhNkSXv3JzvUPLGPUE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
