@@ -1,0 +1,42 @@
+name: books_finder
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # UI
+  cupertino_icons: ^1.0.8
+  cached_network_image: ^3.3.1
+  intl: ^0.19.0
+
+  # State management
+  provider: ^6.0.5
+
+  # API & local storage
+  http: ^1.1.0
+  shared_preferences: ^2.2.3
+
+  # Firebase (for login & cloud favorites)
+  firebase_core: ^2.30.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.17.0
+  google_sign_in: ^6.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  
+  # assets:
+  #   - assets/images/
